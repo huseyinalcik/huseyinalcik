@@ -5,11 +5,9 @@
 
 - 🔭 The company I am working for **Uskudar University**
 
-- 🌱 I’m currently learning **React**
-
 - 👯 My position **Frontend Developer**
 
-- 💬 Ask me about **html,css,js**
+- 💬 Ask me about **html, css, js, react, nextjs**
 
 - 📫 How to reach me **huseyinnalcik41@gmail.com**
 
